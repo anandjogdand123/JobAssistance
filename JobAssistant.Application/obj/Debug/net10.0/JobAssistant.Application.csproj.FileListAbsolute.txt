@@ -1,0 +1,15 @@
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\bin\Debug\net10.0\JobAssistant.Application.deps.json
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\bin\Debug\net10.0\JobAssistant.Application.dll
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\bin\Debug\net10.0\JobAssistant.Application.pdb
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\bin\Debug\net10.0\JobAssistant.Domain.dll
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\bin\Debug\net10.0\JobAssistant.Domain.pdb
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\obj\Debug\net10.0\JobAssistant.Application.csproj.AssemblyReference.cache
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\obj\Debug\net10.0\JobAssistant.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\obj\Debug\net10.0\JobAssistant.Application.AssemblyInfoInputs.cache
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\obj\Debug\net10.0\JobAssistant.Application.AssemblyInfo.cs
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\obj\Debug\net10.0\JobAssistant.Application.csproj.CoreCompileInputs.cache
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\obj\Debug\net10.0\JobAssis.429F0B09.Up2Date
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\obj\Debug\net10.0\JobAssistant.Application.dll
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\obj\Debug\net10.0\refint\JobAssistant.Application.dll
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\obj\Debug\net10.0\JobAssistant.Application.pdb
+C:\Users\A973982\source\repos\JobAssistant\src\JobAssistant.Application\obj\Debug\net10.0\ref\JobAssistant.Application.dll

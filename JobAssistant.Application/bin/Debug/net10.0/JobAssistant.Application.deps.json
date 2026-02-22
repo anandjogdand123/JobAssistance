@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "JobAssistant.Application/1.0.0": {
+        "dependencies": {
+          "JobAssistant.Domain": "1.0.0"
+        },
+        "runtime": {
+          "JobAssistant.Application.dll": {}
+        }
+      },
+      "JobAssistant.Domain/1.0.0": {
+        "runtime": {
+          "JobAssistant.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JobAssistant.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JobAssistant.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
